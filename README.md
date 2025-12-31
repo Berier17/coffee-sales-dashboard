@@ -20,4 +20,4 @@ The analysis is based on three main tables:
 3.  **Products Table:** Product details including `Coffee Type`, `Roast Type`, and `Size`.
 
 ## 📷 Dashboard Screenshot
-![Coffee Sales Dashboard]((https://github.com/Berier17/coffee-sales-dashboard/blob/main/Screenshot%202025-12-31%20152539.png))
+![Cof<img width="1763" height="778" alt="Screenshot 2025-12-31 152539" src="https://github.com/user-attachments/assets/a085e49a-8e05-45c1-90bb-995de4673b3f" />
