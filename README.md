@@ -15,7 +15,7 @@ This project is an end-to-end data analysis solution built entirely in **Excel**
 
 ## 📂 Data Structure
 The analysis is based on three main tables:
-1.  [cite_start]**Orders Table:** Transactional data including `Order Date`, `Quantity`, and `Unit Price`[cite: 5].
+1.  **Orders Table:** Transactional data including `Order Date`, `Quantity`, and `Unit Price`[cite: 5].
 2.  **Customers Table:** Demographics including `City`, `Country`, and `Loyalty Card` status.
 3.  **Products Table:** Product details including `Coffee Type`, `Roast Type`, and `Size`.
 
